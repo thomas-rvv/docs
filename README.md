@@ -1,5 +1,5 @@
 # docs
-MK Docks baseret dokumentation
+MK Docs baseret dokumentation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet diam  sit amet mauris  ignissim finibus. Suspendisse at lectus quis massa gravida iaculis tincidunt fringilla augue. Vestibulum quis vulputate est, in lobortis ligula. Vivamus dignissim ligula ut commodo tempor. Vivamus faucibus urna in leo tempor, a consequat est porttitor.
 
